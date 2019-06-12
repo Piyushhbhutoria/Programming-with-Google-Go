@@ -1,6 +1,6 @@
-#Coursera: Programming with Google Go Specialisation
+# Coursera: Programming with Google Go Specialisation
 
-###Getting Started with Go
+### Getting Started with Go
 
 [Programming assignments for Getting Started with Go](https://www.coursera.org/learn/golang-getting-started)
 
@@ -18,7 +18,7 @@
 [Make JSON](https://github.com/Piyushhbhutoria/Programming-with-Google-Go/blob/master/Getting%20Started%20with%20Go/makejson/makejson.go)  
 [Read File](https://github.com/Piyushhbhutoria/Programming-with-Google-Go/blob/master/Getting%20Started%20with%20Go/read/read.go)
 
-###Functions, Methods, and Interfaces in Go
+### Functions, Methods, and Interfaces in Go
 
 [Programming assignments for Functions, Methods, and Interfaces in Go](https://www.coursera.org/learn/golang-functions-methods)
 
