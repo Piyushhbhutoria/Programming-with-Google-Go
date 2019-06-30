@@ -10,7 +10,7 @@ type Animal interface {
 	Move()
 }
 
-type Cow struct {}
+type Cow struct{}
 
 func (cow Cow) Eat() {
 	fmt.Println("food: grass")
@@ -24,7 +24,7 @@ func (cow Cow) Speak() {
 	fmt.Println("noise: moo")
 }
 
-type Bird struct {}
+type Bird struct{}
 
 func (bird Bird) Eat() {
 	fmt.Println("food: worms")
@@ -38,7 +38,7 @@ func (bird Bird) Speak() {
 	fmt.Println("noise: peep")
 }
 
-type Snake struct {}
+type Snake struct{}
 
 func (snake Snake) Eat() {
 	fmt.Println("food: mice")
@@ -51,7 +51,6 @@ func (snake Snake) Move() {
 func (snake Snake) Speak() {
 	fmt.Println("noise: hsss")
 }
-
 
 func main() {
 	var req string

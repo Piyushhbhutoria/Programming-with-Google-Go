@@ -1,17 +1,17 @@
 package main
 
 import (
-	"fmt"
 	"encoding/json"
+	"fmt"
 )
 
 func main() {
 	m := make(map[string]string)
-	var x string 
-	var y string 
-	fmt.Println("Enter your name")   
+	var x string
+	var y string
+	fmt.Println("Enter your name")
 	fmt.Scanln(&x)
-	fmt.Println("Enter your address")   
+	fmt.Println("Enter your address")
 	fmt.Scanln(&y)
 	m["name"] = x
 	m["address"] = y

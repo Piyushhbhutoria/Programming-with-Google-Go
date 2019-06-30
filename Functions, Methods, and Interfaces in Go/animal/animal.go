@@ -5,16 +5,16 @@ import (
 )
 
 type Animal struct {
-	food string
+	food       string
 	locomotion string
-	noise string
+	noise      string
 }
 
-func main(){
+func main() {
 	var (
-		a string
+		a   string
 		ani Animal
-	 	r string
+		r   string
 	)
 	for {
 		fmt.Print(">")

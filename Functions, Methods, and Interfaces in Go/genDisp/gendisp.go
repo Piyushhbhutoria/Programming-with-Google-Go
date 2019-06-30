@@ -18,8 +18,8 @@ func main() {
 	fmt.Println("Displacement:", fn(t))
 }
 
-func GenDisplaceFn(a, v0, s0 float64) func (float64) float64  {
-	return func (t float64) float64 {
+func GenDisplaceFn(a, v0, s0 float64) func(float64) float64 {
+	return func(t float64) float64 {
 		return s0 + v0*t + 0.5*a*t*t
 	}
 }
