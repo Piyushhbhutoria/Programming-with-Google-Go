@@ -32,6 +32,20 @@
 [Animals](https://github.com/Piyushhbhutoria/Programming-with-Google-Go/blob/master/Functions%2C%20Methods%2C%20and%20Interfaces%20in%20Go/animal/animal.go)
 
 **WEEK 4:** Interfaces for Abstraction  
-[Animals with Interface](https://github.com/Piyushhbhutoria/Programming-with-Google-Go/blob/master/Functions%2C%20Methods%2C%20and%20Interfaces%20in%20Go/Animal%20interface/animalQuery.go)
+[Animal Query](https://github.com/Piyushhbhutoria/Programming-with-Google-Go/blob/master/Functions%2C%20Methods%2C%20and%20Interfaces%20in%20Go/Animal%20interface/animalQuery.go)
 
-**Upcoming : Concurrency in Go**
+### Concurrency in Go
+
+[Programming assignments for Concurrency in Go](https://www.coursera.org/learn/golang-concurrency)
+
+**WEEK 1:**  Why Use Concurrency?  
+[Moore's Law](https://github.com/Piyushhbhutoria/Programming-with-Google-Go/blob/master/Concurrenc%20in%20Go/bubbleSort/bubbleSort.go)
+
+**WEEK 2:** Concurrency basics  
+[Race condition](https://github.com/Piyushhbhutoria/Programming-with-Google-Go/blob/master/Functions%2C%20Methods%2C%20and%20Interfaces%20in%20Go/genDisp/gendisp.go)
+
+**WEEK 3:** Threads in Go  
+[Array sort](https://github.com/Piyushhbhutoria/Programming-with-Google-Go/blob/master/Functions%2C%20Methods%2C%20and%20Interfaces%20in%20Go/animal/animal.go)
+
+**WEEK 4:** Synchronized Communication  
+[Philosopher](https://github.com/Piyushhbhutoria/Programming-with-Google-Go/blob/master/Functions%2C%20Methods%2C%20and%20Interfaces%20in%20Go/Animal%20interface/animalQuery.go)
